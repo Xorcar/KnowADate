@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Game.DBGame" Collapsed="true">
+    <Position X="6" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oAAQIBAACAAAAAAAAAABAAAAAQQAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>DB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.PictureView" Collapsed="true">
+    <Position X="4.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>PictureView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.PasswordWindow" Collapsed="true">
+    <Position X="4.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAgBAAAACAAAACAAAIAAAAEEAAAAAAAAA=</HashCode>
+      <FileName>PasswordWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.GameWindow" Collapsed="true">
+    <Position X="4.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAACAAAAACAIBBGQAACAAQgCQAI4BUAEIHCAAYAAEAA=</HashCode>
+      <FileName>GameWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.CreateGame" Collapsed="true">
+    <Position X="4.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAACAAQBAQAAKAAAADAAIIAAAAAEBAAIAAAAA=</HashCode>
+      <FileName>CreateGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.Player" Collapsed="true">
+    <Position X="6" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAgAAgAAAAQAAAAAAEAAgAAAAAAAACIAA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.Event" Collapsed="true">
+    <Position X="6" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAABAIAAgAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Event.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

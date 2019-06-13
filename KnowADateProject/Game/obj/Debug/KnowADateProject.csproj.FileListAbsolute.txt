@@ -1,0 +1,13 @@
+D:\KnowADate\KnowADateProject\Game\bin\Debug\KnowADateProject.exe.config
+D:\KnowADate\KnowADateProject\Game\bin\Debug\KnowADateProject.exe
+D:\KnowADate\KnowADateProject\Game\bin\Debug\KnowADateProject.pdb
+D:\KnowADate\KnowADateProject\Game\obj\Debug\KnowADateProject.csprojAssemblyReference.cache
+D:\KnowADate\KnowADateProject\Game\obj\Debug\Game.CreateGame.resources
+D:\KnowADate\KnowADateProject\Game\obj\Debug\Game.GameWindow.resources
+D:\KnowADate\KnowADateProject\Game\obj\Debug\Game.PasswordWindow.resources
+D:\KnowADate\KnowADateProject\Game\obj\Debug\Game.PictureView.resources
+D:\KnowADate\KnowADateProject\Game\obj\Debug\KnowADateProject.Properties.Resources.resources
+D:\KnowADate\KnowADateProject\Game\obj\Debug\KnowADateProject.csproj.GenerateResource.cache
+D:\KnowADate\KnowADateProject\Game\obj\Debug\KnowADateProject.csproj.CoreCompileInputs.cache
+D:\KnowADate\KnowADateProject\Game\obj\Debug\KnowADateProject.exe
+D:\KnowADate\KnowADateProject\Game\obj\Debug\KnowADateProject.pdb

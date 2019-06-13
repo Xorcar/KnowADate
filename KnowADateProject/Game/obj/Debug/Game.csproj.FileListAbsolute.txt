@@ -1,0 +1,77 @@
+D:\Univer\V\Курсова\Game\Game\bin\Debug\Game.exe.config
+D:\Univer\V\Курсова\Game\Game\bin\Debug\Game.exe
+D:\Univer\V\Курсова\Game\Game\bin\Debug\Game.pdb
+D:\Univer\V\Курсова\Game\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+D:\Univer\V\Курсова\Game\Game\obj\Debug\Game.CreateGame.resources
+D:\Univer\V\Курсова\Game\Game\obj\Debug\Game.Properties.Resources.resources
+D:\Univer\V\Курсова\Game\Game\obj\Debug\Game.csproj.GenerateResource.Cache
+D:\Univer\V\Курсова\Game\Game\obj\Debug\Game.exe
+D:\Univer\V\Курсова\Game\Game\obj\Debug\Game.pdb
+D:\Univer\V\Курсова\Game\Game\obj\Debug\Game.GameWindow.resources
+D:\Univer\V\Курсова\Game\Game\obj\Debug\Game.PictureView.resources
+D:\Univer\V\Курсова\Game\Game\obj\Debug\Game.PasswordWindow.resources
+C:\Users\Yurii\Documents\Univer\old\Універ\I II\V\Курсова\Документи\Диск\Game\Game\bin\Debug\Game.exe.config
+C:\Users\Yurii\Documents\Univer\old\Універ\I II\V\Курсова\Документи\Диск\Game\Game\bin\Debug\Game.exe
+C:\Users\Yurii\Documents\Univer\old\Універ\I II\V\Курсова\Документи\Диск\Game\Game\bin\Debug\Game.pdb
+C:\Users\Yurii\Documents\Univer\old\Універ\I II\V\Курсова\Документи\Диск\Game\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\Yurii\Documents\Univer\old\Універ\I II\V\Курсова\Документи\Диск\Game\Game\obj\Debug\Game.CreateGame.resources
+C:\Users\Yurii\Documents\Univer\old\Універ\I II\V\Курсова\Документи\Диск\Game\Game\obj\Debug\Game.GameWindow.resources
+C:\Users\Yurii\Documents\Univer\old\Універ\I II\V\Курсова\Документи\Диск\Game\Game\obj\Debug\Game.PasswordWindow.resources
+C:\Users\Yurii\Documents\Univer\old\Універ\I II\V\Курсова\Документи\Диск\Game\Game\obj\Debug\Game.PictureView.resources
+C:\Users\Yurii\Documents\Univer\old\Універ\I II\V\Курсова\Документи\Диск\Game\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\Yurii\Documents\Univer\old\Універ\I II\V\Курсова\Документи\Диск\Game\Game\obj\Debug\Game.csproj.GenerateResource.cache
+C:\Users\Yurii\Documents\Univer\old\Універ\I II\V\Курсова\Документи\Диск\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Yurii\Documents\Univer\old\Універ\I II\V\Курсова\Документи\Диск\Game\Game\obj\Debug\Game.exe
+C:\Users\Yurii\Documents\Univer\old\Універ\I II\V\Курсова\Документи\Диск\Game\Game\obj\Debug\Game.pdb
+C:\Users\Yurii\Documents\Univer\Курсова РУП\диск\Game\Game\bin\Debug\Game.exe.config
+C:\Users\Yurii\Documents\Univer\Курсова РУП\диск\Game\Game\bin\Debug\Game.exe
+C:\Users\Yurii\Documents\Univer\Курсова РУП\диск\Game\Game\bin\Debug\Game.pdb
+C:\Users\Yurii\Documents\Univer\Курсова РУП\диск\Game\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\Yurii\Documents\Univer\Курсова РУП\диск\Game\Game\obj\Debug\Game.CreateGame.resources
+C:\Users\Yurii\Documents\Univer\Курсова РУП\диск\Game\Game\obj\Debug\Game.GameWindow.resources
+C:\Users\Yurii\Documents\Univer\Курсова РУП\диск\Game\Game\obj\Debug\Game.PasswordWindow.resources
+C:\Users\Yurii\Documents\Univer\Курсова РУП\диск\Game\Game\obj\Debug\Game.PictureView.resources
+C:\Users\Yurii\Documents\Univer\Курсова РУП\диск\Game\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\Yurii\Documents\Univer\Курсова РУП\диск\Game\Game\obj\Debug\Game.csproj.GenerateResource.cache
+C:\Users\Yurii\Documents\Univer\Курсова РУП\диск\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Yurii\Documents\Univer\Курсова РУП\диск\Game\Game\obj\Debug\Game.exe
+C:\Users\Yurii\Documents\Univer\Курсова РУП\диск\Game\Game\obj\Debug\Game.pdb
+C:\Users\Yurii\Documents\Univer\IV\Курсова РУП\диск\Game\Game\bin\Debug\Game.exe.config
+C:\Users\Yurii\Documents\Univer\IV\Курсова РУП\диск\Game\Game\bin\Debug\Game.exe
+C:\Users\Yurii\Documents\Univer\IV\Курсова РУП\диск\Game\Game\bin\Debug\Game.pdb
+C:\Users\Yurii\Documents\Univer\IV\Курсова РУП\диск\Game\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\Yurii\Documents\Univer\IV\Курсова РУП\диск\Game\Game\obj\Debug\Game.CreateGame.resources
+C:\Users\Yurii\Documents\Univer\IV\Курсова РУП\диск\Game\Game\obj\Debug\Game.GameWindow.resources
+C:\Users\Yurii\Documents\Univer\IV\Курсова РУП\диск\Game\Game\obj\Debug\Game.PasswordWindow.resources
+C:\Users\Yurii\Documents\Univer\IV\Курсова РУП\диск\Game\Game\obj\Debug\Game.PictureView.resources
+C:\Users\Yurii\Documents\Univer\IV\Курсова РУП\диск\Game\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\Yurii\Documents\Univer\IV\Курсова РУП\диск\Game\Game\obj\Debug\Game.csproj.GenerateResource.cache
+C:\Users\Yurii\Documents\Univer\IV\Курсова РУП\диск\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Yurii\Documents\Univer\IV\Курсова РУП\диск\Game\Game\obj\Debug\Game.exe
+C:\Users\Yurii\Documents\Univer\IV\Курсова РУП\диск\Game\Game\obj\Debug\Game.pdb
+C:\Users\Yurii\Documents\Univer\Курсова ОТКПЗ\диск\Game\Game\bin\Debug\Game.exe.config
+C:\Users\Yurii\Documents\Univer\Курсова ОТКПЗ\диск\Game\Game\bin\Debug\Game.exe
+C:\Users\Yurii\Documents\Univer\Курсова ОТКПЗ\диск\Game\Game\bin\Debug\Game.pdb
+C:\Users\Yurii\Documents\Univer\Курсова ОТКПЗ\диск\Game\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\Yurii\Documents\Univer\Курсова ОТКПЗ\диск\Game\Game\obj\Debug\Game.CreateGame.resources
+C:\Users\Yurii\Documents\Univer\Курсова ОТКПЗ\диск\Game\Game\obj\Debug\Game.GameWindow.resources
+C:\Users\Yurii\Documents\Univer\Курсова ОТКПЗ\диск\Game\Game\obj\Debug\Game.PasswordWindow.resources
+C:\Users\Yurii\Documents\Univer\Курсова ОТКПЗ\диск\Game\Game\obj\Debug\Game.PictureView.resources
+C:\Users\Yurii\Documents\Univer\Курсова ОТКПЗ\диск\Game\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\Yurii\Documents\Univer\Курсова ОТКПЗ\диск\Game\Game\obj\Debug\Game.csproj.GenerateResource.cache
+C:\Users\Yurii\Documents\Univer\Курсова ОТКПЗ\диск\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Yurii\Documents\Univer\Курсова ОТКПЗ\диск\Game\Game\obj\Debug\Game.exe
+C:\Users\Yurii\Documents\Univer\Курсова ОТКПЗ\диск\Game\Game\obj\Debug\Game.pdb
+D:\KnowADate\Game\Game\bin\Debug\Game.exe.config
+D:\KnowADate\Game\Game\bin\Debug\Game.exe
+D:\KnowADate\Game\Game\bin\Debug\Game.pdb
+D:\KnowADate\Game\Game\obj\Debug\Game.csprojAssemblyReference.cache
+D:\KnowADate\Game\Game\obj\Debug\Game.CreateGame.resources
+D:\KnowADate\Game\Game\obj\Debug\Game.GameWindow.resources
+D:\KnowADate\Game\Game\obj\Debug\Game.PasswordWindow.resources
+D:\KnowADate\Game\Game\obj\Debug\Game.PictureView.resources
+D:\KnowADate\Game\Game\obj\Debug\Game.Properties.Resources.resources
+D:\KnowADate\Game\Game\obj\Debug\Game.csproj.GenerateResource.cache
+D:\KnowADate\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\KnowADate\Game\Game\obj\Debug\Game.exe
+D:\KnowADate\Game\Game\obj\Debug\Game.pdb
