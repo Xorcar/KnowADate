@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 
 namespace Game
 {
+    /// <summary>
+    /// Class for a player data. Like id, name, hand etc.
+    /// </summary>
     class Player
     {
         public List<Event> hand { get; }
