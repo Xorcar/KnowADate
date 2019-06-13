@@ -9,6 +9,7 @@ namespace Game
 {
     /// <summary>
     /// Class for connection to data base. Made to connect to mysql data base via ODBC driver.
+    /// To change DB connection, is needed to edit this class file.
     /// </summary>
     class DBGame
     {
