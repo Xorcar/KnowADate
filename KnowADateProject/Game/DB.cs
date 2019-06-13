@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 
 namespace Game
 {
+    /// <summary>
+    /// Class for connection to data base. Made to connect to mysql data base via ODBC driver.
+    /// </summary>
     class DBGame
     {
         private OdbcConnection connection;
