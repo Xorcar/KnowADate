@@ -8,6 +8,7 @@ namespace Game
 {
     /// <summary>
     /// An historcal event.
+    /// Contains data like event ID, name, year, difficulty and path to its picture.
     /// </summary>
     class Event
     {
