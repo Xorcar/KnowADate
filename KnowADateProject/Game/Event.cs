@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace Game
 {
+    /// <summary>
+    /// An historcal event.
+    /// </summary>
     class Event
     {
         public int ID { get; }
